@@ -11,7 +11,7 @@
 
 ### About me
 
-I'm a self-taught developer — no formal degree, just years of independent projects and freelance work. Wrote my first real code in 2010 (Lua scripting for MTA:SA multiplayer), got serious about software in 2013, and took my first paid freelance job in 2014.
+I'm a self-taught developer — no formal degree, just years of independent projects and freelance work. First touched code around 2007, wrote my first real scripts in 2007/2008 (Lua scripting for MTA:SA multiplayer), got serious about software in 2013, and took my first paid freelance job in 2014.
 
 My most ambitious project is **Mira**, a working assistive voice-recognition system for people with speech impairments, built solo from research to demo. I'm Hard of Hearing / Speech Impaired myself and work 100% through written/async channels (Slack, Discord, Docs, tickets) — I'm open to text-based interviews and live-captioned or chat-based evaluations.
 
